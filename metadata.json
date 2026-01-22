@@ -1,0 +1,5 @@
+{
+  "name": "Mô phỏng Thí nghiệm Nhiệt nóng chảy riêng",
+  "description": "Ứng dụng mô phỏng thí nghiệm xác định nhiệt nóng chảy riêng của nước đá theo đề bài vật lý: sử dụng nhiệt lượng kế, dây nung 24W và cân điện tử.",
+  "requestFramePermissions": []
+}
